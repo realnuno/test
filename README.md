@@ -1,9 +1,7 @@
 # test
 
-This is a test.
-
-commit 1
-
-commit 2
+This is a test. Again.
 
 reset 1
+
+reset 2
